@@ -1,4 +1,5 @@
 # Hello There, this is Saleh Muhammad 
+ <image src="https://www.codewars.com/users/salehmalik121/badges/small"></image>
 ##    Current Languages and Tools
 <div id="images">
   <a href="https://flutter.dev/">
