@@ -34,7 +34,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
 </div>
-<div align="center"> <img src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" /> </div>
+<div align="center"> <img src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="50" height="50" /> </div>
 <h3 align="center">A passionate Web and mobile app full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehmalik121&label=Profile%20views&color=0e75b6&style=flat" alt="salehmalik121" /> </p>
